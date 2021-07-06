@@ -1,5 +1,5 @@
-#include<stdio.h>
-int main()
+
+void example()
 {
     printf("This is example.c file");
 }
