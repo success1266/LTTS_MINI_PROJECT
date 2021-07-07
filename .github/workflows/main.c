@@ -30,8 +30,8 @@ int main()
                     break;
                 }
             case 2:
-            {
-                 printf("Members of all teams respectively with their coaching staff.");
+            {    
+                 printf("Oooops!!!!! This module is in Under Process.Please try after sometime\n\n");
                  break;
 
             }
@@ -70,17 +70,17 @@ int main()
                 }      
             case 5:
 				{
-                    printf("Stats of all the players");
+                    printf("Oooops!!!!! This module is in Under Process.Please try after sometime\n\n");
                     break;
                 }
             case 6:
 				{
-                    printf("Add  teams.");
+                    printf("Oooops!!!!! This module is in Under Process.Please try after sometime\n\n");
                     break;
                 }
             case 7:
 				{
-                    printf("Add players.");
+                    printf("Oooops!!!!! This module is in Under Process.Please try after sometime\n\n");
                     break;
                 }
              case 8:
