@@ -1,5 +1,5 @@
 Architecture
-Here is the control flow diagram for the Quiz Game.
+Here is the control flow diagram for the IPL Project.
 
 UML DIAGRAM
 Design
