@@ -39,6 +39,11 @@ Compliler  : VS Code
 Git repository hosting service   :  GIT
 Operation System : Windows 10 or Linux
 
+## SWOT ANALYSIS
+SWOT is a strategic planning tool used to evaluate the strengths, weaknesses, opportunities, and threats to a project. It involves specifying the objective of the project and identifying the internal and external factors that are favourable and unfavourable to achieving that objective. The strengths and weaknesses usually arise from within an organisation, and the opportunities and threats from external sources.
+![swot-analysis-l](https://user-images.githubusercontent.com/52988876/124732944-56f1a280-df31-11eb-8bed-c42bd64c755b.jpg)
+
+
 ## Benefits of Project
 
 1. Simple & Easy to Use
