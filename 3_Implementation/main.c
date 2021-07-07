@@ -75,7 +75,7 @@ int main()
                 }
             case 6:
 				{
-                    printf("Oooops!!!!! This module is in Under Process.Please try after sometime\n\n");
+                    printf("Oooopss!!!!! This module is in Under Process.Please try after sometime\n\n");
                     break;
                 }
             case 7:
