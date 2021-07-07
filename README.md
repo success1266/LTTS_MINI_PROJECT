@@ -1,4 +1,5 @@
 ## IPL Managements System 
+# [![Windows C/C++ CI](https://github.com/pathakshubham21/LTTS_MINI_PROJECT/actions/workflows/Windows_c-cpp.yml/badge.svg)](https://github.com/pathakshubham21/LTTS_MINI_PROJECT/actions/workflows/Windows_c-cpp.yml)
 # About Project
 
 Player management system is a free c mini project. This project helps the authority to manage their newcomer players. Talking about the project here, the user can manage their player profiles. He can search and update them. Also, this project helps in mitigating the risk of data loss. Whenever you save a player record it will be automatically added to the database in text format.
