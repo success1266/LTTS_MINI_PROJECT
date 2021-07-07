@@ -59,3 +59,5 @@ In order to determine the cost to develop library management system, a few aspec
 • Number of Platforms: As the number of platforms are increased cost will also be increased significantly.
 
 • If Indian App firm is chosen to create a IPL Management System then the cost can range between $5000-$8000. This estimate is when the system is being developed with basic features and for a single platform.
+![Capture](https://user-images.githubusercontent.com/52988876/124731282-b5b61c80-df2f-11eb-8d5b-4ed68d39566e.PNG)
+
