@@ -1,8 +1,9 @@
 ## IPL Managements System 
+![IPL-2021-will-change-the-way-of-watching-matches](https://user-images.githubusercontent.com/52988876/125190849-e57d6100-e25c-11eb-9cc0-9caa9042b9b8.jpg)
 
 # SDLC Activity Based Learning
 
-Visit [Pages for Report -optional](using github.io option)
+
 
 Build | Code Quality | Unity | [Git Inspector](using github.io option)
 ------|----------|-------|--------------
