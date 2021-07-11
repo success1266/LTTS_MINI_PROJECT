@@ -1,3 +1,7 @@
-Final: main.c	
-	gcc -o Final main.c
-# makefile
+all:main.c
+	gcc $^ -o all.out -lm
+clean:	
+	rm -rf *.o *.out
+	
+run:all
+	./all.out
