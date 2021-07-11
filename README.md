@@ -1,5 +1,15 @@
 ## IPL Managements System 
-# [![Windows C/C++ CI](https://github.com/pathakshubham21/LTTS_MINI_PROJECT/actions/workflows/Windows_c-cpp.yml/badge.svg)](https://github.com/pathakshubham21/LTTS_MINI_PROJECT/actions/workflows/Windows_c-cpp.yml)
+
+# SDLC Activity Based Learning
+
+Visit [Pages for Report -optional](using github.io option)
+
+Build | Code Quality | Unity | [Git Inspector](using github.io option)
+------|----------|-------|--------------
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/693a5672c6364c6187bd9ff452f24c3b)](https://app.codacy.com/gh/shrishti-1309/Library-Management-System?utm_source=github.com&utm_medium=referral&utm_content=shrishti-1309/Library-Management-System&utm_campaign=Badge_Grade_Settings)
+[![C/C++ CI](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/c-cpp.yml) | [![Static Cppcheck](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/cppcheck.yml) [![Dynamic Valgrind](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/CodeQuality_Dynamic.yml/badge.svg)](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/CodeQuality_Dynamic.yml)| [![Unity - Unit Testing](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/unity.yml/badge.svg)](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/unity.yml)| [![Git Inspector](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/gitinspector.yml/badge.svg)](https://github.com/prithvisekhar/AppliedSDLC_Template/actions/workflows/gitinspector.yml)
+
+
 # About Project
 
 Player management system is a free c mini project. This project helps the authority to manage their newcomer players. Talking about the project here, the user can manage their player profiles. He can search and update them. Also, this project helps in mitigating the risk of data loss. Whenever you save a player record it will be automatically added to the database in text format.
@@ -18,3 +28,31 @@ Kolkata Knight Riders (KKR)
 Rajasthan Royals (RR)
 Delhi Capitals (DC)
 Kings XI Punjab (KXIP)
+
+
+## Folder Structure
+|Folder               | Description
+|---------------------|------------------------------------------
+|`1_Requirements`     | Documents detailing requirements and research
+|`2_Design`           | Documents specifying design details
+|`3_Implementation`   | All code and documentation
+|`4_Testplan`         | Documents with test plans and procedures
+|`5_Report`           | Documents related to project report
+
+
+## Contributors List and Summary
+
+PS No. |  Name   |    Features    | Issues Raised |Issues Resolved|No Test Cases|Test Case Pass
+-------|---------|----------------|----------------|---------------|-------------|--------------
+265156 | Shubham Pathak  | All features    | No     | No   | 4   | All     
+
+## Challenges Faced and How Was It Overcome
+
+1. The purpose of the IPL MANAGEMENT SYSTEM is mainly to provide automation to the acces IPL Data. 
+2. The main objective of the application is to automate the existing system of manually maintain the records   of all IPL Matches and maintaining the data of all teams and their player and making easy to access. And update the score board as the game progress.
+
+## Learning Resources
+1. [geeksforgeeks](https://www.geeksforgeeks.org/c-programming-language/)
+2. [tutorialspoint](https://www.tutorialspoint.com/cprogramming/index.html)
+3. [git inspector](https://github.com/ejwa/gitinspector.git)
+4. [github workflow](https://docs.github.com/en/actions/learn-github-action)
